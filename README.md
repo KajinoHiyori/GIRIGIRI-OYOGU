@@ -1,0 +1,2 @@
+# GIRIGIRI-OYOGU
+2026年5月に制作したC++での初めての2Dマウスゲーム作品。SAPPORO GAME ODYSSEY出展作品。
